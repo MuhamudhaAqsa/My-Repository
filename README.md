@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-- Muhamudha Aqsa says that this community is amazing.
+- Muhamudha Aqsa says that this community is amazing!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
